@@ -1,25 +1,36 @@
 # Stakeholder Analysis
 # Identify and analyze all parties affected by your problem and solution
-
+Management, and employees
 ## Internal Stakeholders
 
 ### Senior Management
 - **Interest in Problem:** [How does this problem affect leadership?]
-- **Interest in Solution:** [What would leadership gain from solving this?]
+It is hard to lead when your workers to not want to work or be lead.
+- **Interest in Solution:** [What would leadership gain from solving this?]\ 
+higher production rate, better company culture
 - **Influence Level:** [High/Medium/Low influence on solution success]
+HIGH
 - **Support Level:** [Likely supporter/neutral/resistant]
+Likely
 
 ### Middle Management
 - **Interest in Problem:** [How does this problem affect middle managers?]
+less stress on maintaining efficient workers,able to collaborate with more team members
 - **Interest in Solution:** [What would middle management gain/lose?]
+They would gain a better workplace where their co-workers are excited to work,they would lose literally nothing.
 - **Influence Level:** [High/Medium/Low influence on implementation]
+High
 - **Support Level:** [Likely supporter/neutral/resistant]
-
+Supporter
 ### Employees/Staff
 - **Interest in Problem:** [How does this problem affect front-line workers?]
+They are being directly affected and compared at rates of performance.
 - **Interest in Solution:** [What would employees gain/lose from solution?]
+They can gain compensation and packages, can lose their job if still not able to find motivation
 - **Influence Level:** [High/Medium/Low influence on solution success]
+high
 - **Support Level:** [Likely supporter/neutral/resistant]
+Neutral
 
 ### Other Internal Groups
 [Add additional internal stakeholder groups as relevant]
@@ -33,27 +44,41 @@
 
 ### Customers/Clients
 - **Interest in Problem:** [How does this problem affect customers?]
+They will recieve better or more products from company due to incline of performance from increased motivation.
 - **Interest in Solution:** [What would customers gain/lose?]
+They would gain better products, would lose nothing.
 - **Influence Level:** [High/Medium/Low influence through feedback/loyalty]
+High in feedback, medium in loyalty
 - **Support Level:** [Likely supporter/neutral/resistant]
+likely
 
 ### Suppliers/Partners
 - **Interest in Problem:** [How does this problem affect business partners?]
+They aren't recieving as much efficient work due to lack of employee motivation, as well as employees who do not want to work.
 - **Interest in Solution:** [What would partners gain/lose?]
+They would gain more intersted employees and more efficient work output.
 - **Influence Level:** [High/Medium/Low influence on solution]
+Low
 - **Support Level:** [Likely supporter/neutral/resistant]
-
+Likely supporter
 ### Regulatory Bodies
 - **Interest in Problem:** [Regulatory implications of the problem?]
+They should be interested because increasing motivation will effect output and efficient output should increase.
 - **Interest in Solution:** [Compliance considerations?]
+They should comply as it will do nothing but help, although if the chance came where this lead to turnover in certain individuals they may think of that and be against it.
 - **Influence Level:** [High/Medium/Low regulatory power]
+Medium
 - **Support Level:** [Likely response to solution]
-
+Their response should be positive being this will lead to increased output
 ### Community/Society
 - **Interest in Problem:** [Broader social implications?]
+They should have interest in problems because they should want people in their company to want to feel motivated to work, this can help them gave more partners if their company is thriving.
 - **Interest in Solution:** [Community benefits/concerns?]
+This solution will help with performance as well as help know the effect of the changes throughout the job satisfaciton surveys
 - **Influence Level:** [High/Medium/Low through public opinion]
+Medium
 - **Support Level:** [Likely community response]
+Their community will accept it because it is bettering their efficiency which in the long run will positvely effect the products they output.
 
 ## Stakeholder Engagement Strategy
 
