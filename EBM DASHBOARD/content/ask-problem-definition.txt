@@ -10,47 +10,51 @@ Lack of employee motivation, there are employees in todays workplace that do not
 ### Desired State (Y - What outcome do we want to achieve?)
 [Describe the ideal situation you want to reach]
 MY NOTES
-
+Increase employee motivation by 10% and ensure motivation coming from management
 ## PICOC Framework
 ### Population (P - Who is affected by this problem?)
 [Identify the specific group(s) experiencing the problem]
-
+Employees and management
 ### Intervention (I - What solution/action are we considering?)
 [Describe the potential intervention or solution approach]
-
+Increase compensation and or packages for better performance as well as surveys for job satisfaction
 ### Comparison (C - What alternatives exist?)
 [List alternative approaches or the "do nothing" option]
-
+Increased steady turnover, absenttism, inefficient work, lack of optimism
 ### Outcomes (O - What will success look like?)
 [Define specific, measurable outcomes]
-
+Happier employees, increase efficiency in work ouput,downfall in turnover, surveys that show increased job satisfaction
 ### Context (C - Where/when does this apply?)
 [Specify the organizational, geographic, or temporal context]
-
+The employees of said company
 ## Clear Problem Statement
 [Write a concise, specific statement of the management problem you're addressing]
-
+The managmenet problem I want to address is lack of motivation in employees. Employees do not want to come to work, nor do they feel as if it is a place that is doing something for them. They feel as if it is a waste of time and they are a slave to the job.
 ## Why This Problem Matters
 ### Impact on Organization
 [Explain the consequences if this problem isn't addressed]
-
+If this probelm is not addressed in will lead to the downfall in performance, we will not be moving efficiently as a company. It will cause workers to skip out from work as well as arrive late. This issue can affect all our stake and shareholders as well being they depend on us to keep the company going in a upward path. Overall it can lead to the overall demise of our company as a whole.
 ### Stakeholder Impact
 [Describe how different groups are affected]
-
+They will affect in employees as there is downfall in work output whcih can lead to layoffs. This can affect management as they are under stress trying to keep the company moving foreward. This can also affect our higher-ups as they expect our output to remain at a constant rise. They can begin to has issues with connections within the company and more.
 ### Strategic Alignment
 [Connect to organizational goals and priorities]
-
+If workers are not motivated to perfrom to their highest extent this can affect our mains of making profit and upholding the company's image. We need our workers motivated so we can remain profitable and also so we can uphold company culture which shouldn't include workers that aren't fueled to perform to their best.
 ## Evidence Questions to Explore
 ### For the Problem (Step 2)
 - What evidence shows this problem exists?
 - How widespread is this problem?
 - What are the root causes?
-
+Evidence can be lack of collaboration, absenttism, we can compare previous work to current work to show perfromance is declining from lack of motivation.
+This problem is pretty widespread and you can find lack of motivation at pretty much any company around the world in some form you will find someone that isn't motivated for some reason
+Root causes can be lack of efficient management, no established culture in the workplace, feeling like you get no recognition, poor leadership, heavy workload
 ### For the Solution (Step 4)
 - What evidence supports our preferred solution?
 - Has this solution worked in similar contexts?
 - What are the potential risks and benefits?
-
+If workers are able to get extra compensation and benefits for higher performance this will increase their motivation to work, as one they want to earn more money, and two they do not want their co-workers to exceed them and make them look bad. Job satisfaction surveys will also give us the info we need to effectively change what is causing lack of motivation within our company
+This solution has worked in Amazon where they increased their wages in 2018 citing a direct link between higher compensation and increased motivation.
+Risks that come with this can be burnout, turnover, competition between co-workers,lack of in-trinsic motivation
 ---
 INSTRUCTIONS: 
 1. Replace all bracketed placeholders with your specific content
